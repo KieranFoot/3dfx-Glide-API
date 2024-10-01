@@ -75,5 +75,7 @@ jobs:
         path: |
             glide3x/h5/bin_win_x32/Release/*.dll
             glide3x/h5/bin_win_x32/Debug/*.dll
+            glide3x/h5/bin_win_x32/Debug/*.pdb
             glide3x/h5/bin_win_x64/Release/*.dll
             glide3x/h5/bin_win_x64/Debug/*.dll
+            glide3x/h5/bin_win_x64/Debug/*.pdb
